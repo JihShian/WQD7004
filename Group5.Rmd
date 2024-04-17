@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Our Title
 Group 5: Group Name
 
-Name    |   Matric No
+Name | Matric No
 --------|-------------
 Lee Jih Shian|17126198
 Melanie Ng Huei Yee | 17072752
